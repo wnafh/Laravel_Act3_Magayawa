@@ -17,7 +17,7 @@
                 <input type="text" name="rice_name" required><br><br>
                 <label>Price per-kilo:</label>
                 <input type="number" name="price_pkilo" required><br><br>
-                <label>Stock Quantit:</label>
+                <label>Stock Quantiy:</label>
                 <input type="text" name="stock_quant" required><br><br>
                 <label>Description:</label>
                 <input type="text" name="rice_desc" required><br><br>
